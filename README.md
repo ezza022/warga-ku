@@ -9,3 +9,5 @@ masih dalam tahap proses...
 yang mau bantu boleh pull-request
 
 react js, redux, firebase, tailwindcss
+
+note: masih banyak bug, tidak mendukung perangkat mobile
