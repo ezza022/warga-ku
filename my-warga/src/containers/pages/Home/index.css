@@ -1,0 +1,14 @@
+@layer components {
+  .container-home {
+    @apply container w-3/4 p-5 flex;
+  }
+  .container-main-home {
+    @apply flex-wrap justify-center bg-white w-full rounded text-center shadow-md;
+  }
+  .search-home {
+    @apply text-gray-600 mt-5;
+  }
+  .table-home {
+    @apply py-5;
+  }
+}

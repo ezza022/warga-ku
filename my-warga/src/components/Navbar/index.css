@@ -1,0 +1,17 @@
+@layer components {
+  nav {
+    @apply bg-gray-800;
+  }
+  .container-navbar {
+    @apply flex justify-between items-center;
+  }
+  .button-logo-navbar {
+    @apply no-underline text-blue-50 hover:text-white px-4;
+  }
+  .list-navbar {
+    @apply list-none;
+  }
+  .button-list-navbar {
+    @apply no-underline text-blue-100 hover:text-white px-4;
+  }
+}
